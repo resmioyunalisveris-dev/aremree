@@ -1,0 +1,9 @@
+Package: com.aremree.arhome
+Name: App
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: pc
+Author: pc
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
